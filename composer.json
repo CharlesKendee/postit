@@ -1,0 +1,6 @@
+{
+    "require": {
+        "codeception/codeception": "*",
+        "flow/jsonpath" : "0.3.1"
+    }
+}
